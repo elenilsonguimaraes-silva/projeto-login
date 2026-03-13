@@ -40,6 +40,7 @@ Grandes telas: acima de 1200
     }
 
     section#login{
+        height: 80vh;
         width: 90vw;
     }
 
