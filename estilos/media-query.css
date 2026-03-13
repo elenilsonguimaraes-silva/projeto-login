@@ -10,7 +10,7 @@ Desktop: 1025px até 1200px
 Grandes telas: acima de 1200
 */
 
-@media screen and (min-width: 481px) and (max-width: 768px){/*Tablets */
+@media screen and (max-width: 768px){/*Tablets */
 
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
